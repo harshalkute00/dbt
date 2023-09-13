@@ -1,0 +1,15 @@
+								SQL Assignment -2
+
+							Introducing Relational Databases.
+
+(1)Which field of the Customers table is the primary key?
+Answer: CNUM is the primary key of the Customers table.
+
+(2)What is the 4th column of the Customers table?
+Answer: RATING is the 4th column of the Customers table.
+
+(3)What is another word for row? For column?
+Answer: Another word for row is Record, Tuple. Another word for column is Attribute.
+	
+(4)Why isn't it possible to see the first five rows of a table?
+Answer: Row's inside a table are scattered all over the database server hard disk when we select from a table, the order of rows in the output, depends on the row address. It will always be in ascending order of row address.Hence it is not possible to see the first 'five' rows of a table or last 'Five' rows of a table. 
