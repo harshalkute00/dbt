@@ -1,0 +1,7 @@
+1) Does ANSI recognize the data type DATE?
+  Answer:  YES.
+    
+    
+2)Which subdivision of SQL is used to insert values in tables? 
+  Answer:In SQL, the INSERT statement is used to insert values into tables. 
+  It is part of the Data Manipulation Language (DML) subdivision of SQL.
